@@ -27,7 +27,6 @@ We clean the data, calculate ROI and Conversion Rate for each channel, build 5 c
 | Matplotlib | Building bar charts and funnel charts |
 | Seaborn | Conversion rate chart and heatmap |
 | Google Colab | Running the notebook in the browser |
-| GitHub | Storing and sharing the project |
 
 🔄 Workflow Flowchart
 
